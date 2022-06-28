@@ -1,1 +1,10 @@
-# freeCodeCamp-Tribute-Page
+A project from freeCodeCamp where I was tasked to build a website functionally similar to https://tribute-page.freecodecamp.rocks. I decided to create a clone of this website to develop skills related to recreating a website design. The criteria required to pass this project were: 
+Your tribute page should have a main element with a corresponding id of main, which contains all other elements
+You should see an element with an id of title, which contains a string (i.e. text), that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug")
+You should see either a figure or a div element with an id of img-div
+Within the #img-div element, you should see an img element with a corresponding id="image"
+Within the #img-div element, you should see an element with a corresponding id="img-caption" that contains textual content describing the image shown in #img-div
+You should see an element with a corresponding id="tribute-info", which contains textual content describing the subject of the tribute page
+You should see an a element with a corresponding id="tribute-link", which links to an outside site, that contains additional information about the subject of the tribute page. HINT: You must give your element an attribute of target and set it to _blank in order for your link to open in a new tab
+Your #image should use max-width and height properties to resize responsively, relative to the width of its parent element, without exceeding its original size
+Your img element should be centered within its parent element
